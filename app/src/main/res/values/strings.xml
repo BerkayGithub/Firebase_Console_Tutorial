@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Firebase_Cloud_Messaging_Tutorial</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="gettoken">GetToken</string>
+    <string name="unsubscribe">UNSUBSCRIBE</string>
+    <string name="msg_subscribed" translatable="false">Message Subscribed</string>
+    <string name="msg_subscribe_failed" translatable="false">Subscribe failed</string>
+    <string name="msg_unsubscribed" translatable="false">Message Unsubscribed</string>
+    <string name="msg_unsubscribe_failed" translatable="false">Unsubscribe failed</string>
+    <string name="crash">Crash</string>
+    <string name="count">count</string>
+    <string name="get_location">Get Location</string>
+</resources>

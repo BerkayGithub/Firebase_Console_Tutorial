@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666656953995",
+    "firebase_url": "https://fcbtutorial-429af.firebaseio.com",
+    "project_id": "fcbtutorial-429af",
+    "storage_bucket": "fcbtutorial-429af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666656953995:android:2452db2c1ca5953005a68e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cloud_messaging_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666656953995-hu35lm05n8n25bcs2t5qj83b87p33n6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHCet3iPXsy8RspsP80PwxxtunHczS-Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666656953995-hu35lm05n8n25bcs2t5qj83b87p33n6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
